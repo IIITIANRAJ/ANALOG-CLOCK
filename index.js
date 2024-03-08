@@ -18,4 +18,3 @@ function displayTime(){
     sec.style.transform = `rotate(${sRotation}deg)`;
 }
 setInterval(displayTime,1000);
-
